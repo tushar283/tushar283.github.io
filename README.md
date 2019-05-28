@@ -1,4 +1,4 @@
-# tushar283.github.io
+# FirstProject
 
 
 Open the 3 files in your favourite text Editor.

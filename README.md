@@ -1,6 +1,6 @@
 # tushar283.github.io
 
-Its Very Easy To use.
+
 Open the 3 files in your favourite text Editor.
 HTML & CSS are very easy to Understand.
 
